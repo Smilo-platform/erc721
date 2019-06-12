@@ -19,7 +19,9 @@ This article will attempt to create an ERC-721 in its simplest useful form using
 
 Deploy yourself: `truffle migrate --network testnet`
 
-Testnet: `0xE4c1A5C3CF5bAB951DED3aaebF79241D67d6e91A`
+Testnet: `0xE4c1A5C3CF5bAB951DED3aaebF79241D67d6e91A` 
+
+Explorer: https://testnet-explorer.smilo.network/addr/0xe4c1a5c3cf5bab951ded3aaebf79241d67d6e91a
 
 Mainnet:
 
