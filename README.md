@@ -3,7 +3,7 @@
 
 What is it?
 
-![](https://cdn-images-1.medium.com/max/2000/0*jr7S0JF8XiousKKz.png)
+![](https://github.com/Smilo-platform/erc721/blob/master/smiloerc721-smilo.png)
 
 ERC-721 tokens are a hot topic today with the advent of [crypto kitties](https://www.cryptokitties.co/) and a host of other digital collectibles spawned by its success. The [ERC-721 standard](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) has gone through a couple iterations and is more or less in place now, so expect more and more players to enter this space. The basic premise of these [non-fungible tokens](https://en.wikipedia.org/wiki/Non-Fungible_Tokens) is that each token is unique and therefore cannot be exchanged on a 1:1 basis like an ERC20 token may be. There are many use cases where a unique tangible or digital asset may represented by these ERC-721 tokens, such as real estate, art, precious stones, etc. Actually, the digital collectible use case is probably the lowest market value use case of them all.
 
@@ -31,8 +31,6 @@ Mainnet:
 Run the test from the project root
 
     truffle test
-
-![](https://cdn-images-1.medium.com/max/3236/1*tZ9h1i5oaWrD8ISiGH5L8w.png)
 
 ### Addendum
 
